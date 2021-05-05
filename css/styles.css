@@ -1,0 +1,15 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title {
+    background-color: black;
+    margin: auto;
+    width: auto;
+    height: auto;
+    padding: 30%;
+}
+
+#title h1 {
+    color: white;
+}
